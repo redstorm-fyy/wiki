@@ -1,5 +1,5 @@
 # 目录
-## [调度器](https://redstorm-fyy.github.io/wiki/main/gouroutine.md)
+## [调度器](https://github.com/redstorm-fyy/wiki/edit/main/gouroutine.md)
 
 
 ## Welcome to GitHub Pages
